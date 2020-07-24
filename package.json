@@ -1,0 +1,24 @@
+{
+  "name": "jest_tutorial",
+  "version": "1.0.0",
+  "description": "Well simply unit testing in jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "javascript",
+    "jest",
+    "unit",
+    "testing"
+  ],
+  "author": "Vladimir Rozdobudko <railroad.man2k@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
